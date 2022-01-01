@@ -7,10 +7,6 @@
 > Pandas, requests, bs4 (BeautifulSoup4)
 
 Open a cmd-window, preferably in the directory u plan to place the script to save further work. A fast way to do that is to left-click the adressbar while having open the folder with the script and type "cmd". Type:
-> py -m pip install -r requirements.txt
-
-to install all requirements or type
-
 > py -m pip install pandas requests bs4
 
 ## Usage
